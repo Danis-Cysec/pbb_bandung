@@ -4,4 +4,4 @@
 # untuk login ke admin localhost:/pbb_lubai/admin
 # username : 222333
 # password : admin
-# Terimakasih kepada pihak source code sebekumnya yang telah membolehkan saya untuk mengulik kodingan yang telah di buat sebelumnya
+# Terimakasih kepada pihak source code sebelumnya yang telah membolehkan saya untuk mengulik kodingan yang telah di buat sebelumnya
